@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="author" content="{{site.author}}">
+  <link rel="icon" type="image/png" href="/static/img/call_duck_profile.png" />
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="/static/lib/bootstrap-5.1.1-dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/static/lib/bootstrap-icons-1.5.0/bootstrap-icons.css">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Vollkorn&Open+Sans&display=swap" rel="stylesheet"> 
+
+  <link rel="stylesheet" href="/static/css/styles.css">
+  <title>{{site.title}}</title>
+</head>
+<body>
+  {% include header.html %}
+
+  <div class="container my-5">
+    {{content | safe}}
+  </div>
+
+  {% include footer.html %}
+
+  <!-- Bootstrap -->
+  <script src="/static/lib/bootstrap-5.1.1-dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112153968-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-112153968-1');
+  </script>
+
+</body>
+</html>
