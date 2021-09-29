@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>/</loc>
+            <lastmod>2021-09-28T01:35:11Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/</loc>
+            <lastmod>2021-09-28T00:22:33Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/photos/animals/</loc>
+            <lastmod>2021-09-28T00:19:13Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/contact/</loc>
+            <lastmod>2021-09-27T12:48:45Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/photos/farm/</loc>
+            <lastmod>2021-09-27T11:12:46Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/photos/barn/</loc>
+            <lastmod>2021-09-27T01:29:40Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/faqs/recommended-books/</loc>
+            <lastmod>2021-09-23T18:32:52Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/faqs/incubation-tips/</loc>
+            <lastmod>2021-09-23T18:06:03Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/faqs/duckling-care/</loc>
+            <lastmod>2021-09-23T18:01:03Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/faqs/</loc>
+            <lastmod>2021-09-23T17:59:26Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/policy/sales/</loc>
+            <lastmod>2021-09-23T13:52:59Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/static/lib/bootstrap-icons-1.5.0/</loc>
+            <lastmod>2021-05-10T16:32:53Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/static/lib/lightbox2-2.11.3/examples/</loc>
+            <lastmod>2020-07-11T03:21:28Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/static/lib/lightbox2-2.11.3/ROADMAP/</loc>
+            <lastmod>2020-07-11T03:21:28Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/static/lib/lightbox2-2.11.3/README/</loc>
+            <lastmod>2020-07-11T03:21:28Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/static/lib/lightbox2-2.11.3/DEPLOY/</loc>
+            <lastmod>2020-07-11T03:21:28Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/static/lib/lightbox2-2.11.3/.github/PULL_REQUEST_TEMPLATE/</loc>
+            <lastmod>2020-07-11T03:21:28Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/static/lib/lightbox2-2.11.3/.github/ISSUE_TEMPLATE/</loc>
+            <lastmod>2020-07-11T03:21:28Z</lastmod>
+        </url>
+    
+</urlset>
+
